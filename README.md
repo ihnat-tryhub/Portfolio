@@ -136,7 +136,7 @@ npx vercel --prod
 
 ### GoTours — Full-stack tour booking platform
 - **Live:** https://go-tours-liard.vercel.app
-- **API:** https://gotours.onrender.com
+- **API:**  https://documenter.getpostman.com/view/39911722/2sAYQiATE5
 - **Code:** https://github.com/ihnat-tryhub/GoTours
 - Stack: React, TypeScript, Vite, Express, MongoDB, Mongoose, JWT, Stripe, Mapbox
 
@@ -146,7 +146,8 @@ npx vercel --prod
 - Stack: React, Redux Toolkit, Vite, Tailwind CSS, Express, MongoDB, JWT, Stripe, Cloudinary, Chart.js
 
 
-<img width="890" height="803" alt="image" src="https://github.com/user-attachments/assets/a1cc13db-6f8a-4623-bae9-1d7e3fd73490" />
+<img width="1250" height="839" alt="image" src="https://github.com/user-attachments/assets/5f6f63c1-0572-480c-ae11-b2f085751848" />
+
 
 ---
 
