@@ -145,6 +145,9 @@ npx vercel --prod
 - **Code:** https://github.com/ihnat-tryhub/Shop
 - Stack: React, Redux Toolkit, Vite, Tailwind CSS, Express, MongoDB, JWT, Stripe, Cloudinary, Chart.js
 
+
+<img width="890" height="803" alt="image" src="https://github.com/user-attachments/assets/a1cc13db-6f8a-4623-bae9-1d7e3fd73490" />
+
 ---
 
 <div align="center">
@@ -152,3 +155,4 @@ npx vercel --prod
 Made with ☕ · [GitHub](https://github.com/ihnat-tryhub)
 
 </div>
+
