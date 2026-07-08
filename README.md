@@ -13,7 +13,7 @@
 
 <br/>
 
-**[🚀 Live Site](https://ihnat-tryhub.vercel.app)** &nbsp;·&nbsp; **[GitHub](https://github.com/ihnat-tryhub)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/ihnat-tryhub/)**
+**[🚀 Live Site](portfolio-peach-six-zj6o8pu1qd.vercel.app)** &nbsp;·&nbsp; **[GitHub](https://github.com/ihnat-tryhub)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/ihnat-tryhub/)**
 
 </div>
 
